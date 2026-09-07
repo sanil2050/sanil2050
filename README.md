@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanil2050" alt="sanil2050" /></a> </p>
 
-- 🔭 I’m currently working on **Deepfake detection using advanced neural networks**
+- 🔭 I’m currently working on **ECHO TOKENS**
 
 - 🌱 I’m currently learning **Audio deepfake detection, IPFS, TinyViT, model optimization**
 
